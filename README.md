@@ -38,6 +38,7 @@ Each row added to Google Sheets includes:
 🔗 Company URL
 
 🔧 How It Works
+
 1️⃣ Trigger Module
 
 You define the filters:
