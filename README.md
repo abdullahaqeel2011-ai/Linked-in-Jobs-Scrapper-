@@ -141,4 +141,4 @@ MIT License — Free to use, modify, and enhance.
 
 Abdullah Aqeel
 
-AI Automation Engineer | Software Quality Assurance (SQA)
+AI Automation Engineer | Software Quality Assurance Engineer (SQAE)
